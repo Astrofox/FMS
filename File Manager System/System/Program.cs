@@ -17,7 +17,7 @@ namespace File_Manager_System
     {
 
         /// <summary>
-        /// Главная точка входа для приложения.
+        /// Главная точка входа приложения.
         /// </summary>
         [STAThread]
         static void Main()
